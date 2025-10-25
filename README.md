@@ -65,13 +65,19 @@ Open the local URL provided in the terminal.
 Upload a leaf image to get predictions with confidence scores.
 
 Folder Structure
+
 plant-disease-project/
 │
 ├─ src/                  # Source code
+
 │   ├─ app.py            # Streamlit app
+
 │   ├─ inference.py      # Model inference code
+
 │   ├─ model.py          # CNN model definition
+
 │   ├─ preprocess.py     # Image preprocessing functions
+
 │   ├─ split_data.py     # Data splitting script
 │   └─ train.py          # Model training script
 │
@@ -98,3 +104,4 @@ Make your changes and commit (git commit -m "Add some feature").
 Push to the branch (git push origin feature/YourFeature).
 
 Create a Pull Request.
+
