@@ -79,18 +79,31 @@ plant-disease-project/
 │   ├─ preprocess.py     # Image preprocessing functions
 
 │   ├─ split_data.py     # Data splitting script
+
 │   └─ train.py          # Model training script
+
 │
+
 ├─ notebooks/            # Jupyter notebooks
+
 │   ├─ 01_explore.ipynb
+
 │   ├─ 02_train.ipynb
+
 │   └─ 03_inference.ipynb
+
 │
+
 ├─ models/               # Saved trained models
+
 │   └─ best_model.h5
+
 │
+
 ├─ requirements.txt
+
 ├─ README.md
+
 └─ .gitignore
 
 Contributing
@@ -104,4 +117,5 @@ Make your changes and commit (git commit -m "Add some feature").
 Push to the branch (git push origin feature/YourFeature).
 
 Create a Pull Request.
+
 
